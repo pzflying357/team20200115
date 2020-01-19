@@ -12,6 +12,6 @@ print(result)
 #ex3
 a = 'hello,world'  # str
 b = 1.414          #float
-c = (1 != 2)       #bool Ture
+c = (1 != 2)       #bool True
 d = (True and False) #bool  False
-e = (True or False)  #bool  Ture
+e = (True or False)  #bool  True
